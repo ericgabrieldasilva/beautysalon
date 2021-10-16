@@ -411,6 +411,9 @@ section#testimonials cite img {
 }
 
 /*===== SWIPER ==========================*/
+.swiper-container{
+  overflow: hidden;
+}
 
 .swiper-slide {
   height: auto;
